@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>matchId</key>
+		<integer>1</integer>
+		<key>teamA</key>
+		<string>Manchester United</string>
+		<key>teamB</key>
+		<string>Manchester City</string>
+		<key>win</key>
+		<integer>20</integer>
+		<key>draw</key>
+		<integer>14</integer>
+		<key>lose</key>
+		<integer>10</integer>
+		<key>date</key>
+		<string>20/3/2013</string>
+	</dict>
+	<dict>
+		<key>matchId</key>
+		<integer>2</integer>
+		<key>teamA</key>
+		<string>Chelsea</string>
+		<key>teamB</key>
+		<string>Arsenal</string>
+		<key>win</key>
+		<integer>19</integer>
+		<key>draw</key>
+		<integer>12</integer>
+		<key>lose</key>
+		<integer>15</integer>
+		<key>date</key>
+		<string>21/3/2013</string>
+	</dict>
+</array>
+</plist>

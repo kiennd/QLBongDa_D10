@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>teamImage</key>
+		<string>ManchesterUnitedTeam.jpg</string>
+		<key>teamId</key>
+		<integer>1</integer>
+		<key>teamName</key>
+		<string>Manchester United</string>
+		<key>logoName</key>
+		<string>ManchesterUnited.jpg</string>
+		<key>coachName</key>
+		<string>Alex Ferguson</string>
+		<key>songName</key>
+		<string>ManchesterUnited.mp3</string>
+		<key>stadiumName</key>
+		<string>Old Trafford</string>
+	</dict>
+	<dict>
+		<key>teamImage</key>
+		<string>ManchesterCityTeam.jpeg</string>
+		<key>teamId</key>
+		<integer>2</integer>
+		<key>teamName</key>
+		<string>Manchester City</string>
+		<key>logoName</key>
+		<string>ManchesterCity.jpg</string>
+		<key>coachName</key>
+		<string>Roberto Mancini</string>
+		<key>songName</key>
+		<string>ManchesterCity.mp3</string>
+		<key>stadiumName</key>
+		<string>Etihad</string>
+	</dict>
+	<dict>
+		<key>teamImage</key>
+		<string>ChealseaTeam.jpg</string>
+		<key>teamId</key>
+		<integer>3</integer>
+		<key>teamName</key>
+		<string>Chelsea</string>
+		<key>logoName</key>
+		<string>Chelsea.jpg</string>
+		<key>coachName</key>
+		<string>Rafael Benitez</string>
+		<key>songName</key>
+		<string>Chelsea.mp3</string>
+		<key>stadiumName</key>
+		<string>Stamford Bridge</string>
+	</dict>
+	<dict>
+		<key>teamImage</key>
+		<string>ArsenalTeam.jpg</string>
+		<key>teamId</key>
+		<integer>4</integer>
+		<key>teamName</key>
+		<string>Arsenal</string>
+		<key>logoName</key>
+		<string>Arsenal.jpg</string>
+		<key>coachName</key>
+		<string>Arsene Wenger</string>
+		<key>songName</key>
+		<string>Arsenal.mp3</string>
+		<key>stadiumName</key>
+		<string>Emirates</string>
+	</dict>
+	<dict>
+		<key>teamImage</key>
+		<string>LiverpoolTeam.jpeg</string>
+		<key>teamId</key>
+		<integer>5</integer>
+		<key>teamName</key>
+		<string>Liverpool</string>
+		<key>logoName</key>
+		<string>Liverpool.jpg</string>
+		<key>coachName</key>
+		<string>Brendan Rodgers</string>
+		<key>songName</key>
+		<string>Liverpool.mp3</string>
+		<key>stadiumName</key>
+		<string>Anfield</string>
+	</dict>
+</array>
+</plist>

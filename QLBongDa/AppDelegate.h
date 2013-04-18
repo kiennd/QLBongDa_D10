@@ -1,8 +1,9 @@
 //
-//  AppDelegate.h
-//  QLBongDa
+//  AppDelegate.m
 //
-//  Created by KIENND on 4/17/13.
+//  FootballManager
+//
+//  Created by KIENND on 4/15/13.
 //  Copyright (c) 2013 KIENND. All rights reserved.
 //
 
